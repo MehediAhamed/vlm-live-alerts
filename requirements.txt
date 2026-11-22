@@ -1,0 +1,6 @@
+gradio>=4.44
+opencv-python-headless
+websockets>=14
+httpx
+python-dotenv
+yt-dlp
